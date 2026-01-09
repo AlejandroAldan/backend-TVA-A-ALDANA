@@ -1,0 +1,7 @@
+[
+  { "rut": 15274, "nombre": "Fulana de Tal", "monto": 200 },
+  { "rut": 15891, "nombre": "Jean Dupont", "monto": 150 },
+  { "rut": 16443, "nombre": "Erika Mustermann", "monto": 400 },
+  { "rut": 16504, "nombre": "Perico Los Palotes", "monto": 80 },
+  { "rut": 17004, "nombre": "Jan Kowalski", "monto": 200 }
+]
